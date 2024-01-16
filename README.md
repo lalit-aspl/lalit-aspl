@@ -3,7 +3,7 @@
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
 ## Skills
-<div style="display: flex; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+<div style="isplay: flex;  align-items: center; text-align: center; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
   <div>
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
     <br/>
