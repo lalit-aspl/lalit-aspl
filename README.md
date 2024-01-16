@@ -3,7 +3,7 @@
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
 ## Skills
-<div style="display: flex; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
+<div style="display: flex; justify-content: space-between; gap: 20px; text-align: center;">
   <div>
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
     <br/>
@@ -40,7 +40,7 @@
     JavaScript
   </div>
   <div>
-    <img src="https://codeigniter.com/assets/icons/ci-logo.png" height ="50" width ="50" alt="CodeIgniter"/>
+    <img src="https://codeigniter.com/assets/icons/ci-logo.png" height="50" width="50" alt="CodeIgniter"/>
     <br/>
     CodeIgniter
   </div>
@@ -50,6 +50,7 @@
     Chrome Extension
   </div>
 </div>
+
 
 ## Projects
 - [![Seaport Composer Package](https://img.shields.io/badge/Seaport%20Package-4E5D94?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/seaport/database)
