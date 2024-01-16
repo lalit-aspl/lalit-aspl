@@ -12,7 +12,7 @@
 - Chrome extension
 
 ## Projects
-- [seaport composer package ](link-to-project1](https://packagist.org/packages/seaport/database)
+- [![Seaport Composer Package](https://img.shields.io/badge/Seaport%20Package-4E5D94?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/seaport/database)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kumar-a0512a146)
