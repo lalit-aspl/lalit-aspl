@@ -3,53 +3,55 @@
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
 ## Skills
-<div style="isplay: flex;  align-items: center; text-align: center; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-  <div>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
     <br/>
     MySQL
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
     <br/>
     PHP
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel"/>
     <br/>
     Laravel
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
     <br/>
     HTML
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
     <br/>
     CSS
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery"/>
     <br/>
     jQuery
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript"/>
     <br/>
     JavaScript
   </div>
-  <div>
-    <img src="https://codeigniter.com/assets/icons/ci-logo.png" height ="50" width ="50" alt="CodeIgniter"/>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://codeigniter.com/assets/icons/ci-logo.png" height="50" width="50" alt="CodeIgniter"/>
     <br/>
     CodeIgniter
   </div>
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome Extension"/>
     <br/>
     Chrome Extension
   </div>
-</div> 
+</div>
+
 
 
 ## Projects
