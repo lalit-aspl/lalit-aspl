@@ -5,29 +5,51 @@
 ## Skills
 
 <p align="left">
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
-  
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome Extension" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+  </a>
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://html.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  </a>
+  <a href="#" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" />
+  </a>
+  <a href="#" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="#" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome Extension" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
 </p>
 
 
 
 
-
-
-
-
 ## Projects
-- [![Seaport Composer Package](https://img.shields.io/badge/Seaport%20Package-4E5D94?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/seaport/database)
+**GitLab Project List:**
+[![Gitlab Project List](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lalit_aspl)
+
+**Composer Package:**
+[![Seaport Composer Package](https://img.shields.io/badge/Seaport%20Package-4E5D94?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/seaport/database)
+
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kumar-a0512a146)
