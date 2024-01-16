@@ -4,53 +4,24 @@
 
 ## Skills
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-    <br/>
-    MySQL
-  </div>
-  <div>
-    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
-    <br/>
-    PHP
-  </div>
-  <div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel"/>
-    <br/>
-    Laravel
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-    <br/>
-    HTML
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-    <br/>
-    CSS
-  </div>
-  <div>
-    <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery"/>
-    <br/>
-    jQuery
-  </div>
-  <div>
-    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript"/>
-    <br/>
-    JavaScript
-  </div>
-  <div>
-    <img src="https://codeigniter.com/assets/icons/ci-logo.png" height ="50" width ="50" alt="CodeIgniter"/>
-    <br/>
-    CodeIgniter
-  </div>
-  <div>
-    <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome Extension"/>
-    <br/>
-    Chrome Extension
-  </div>
-</div>
+<p align="left">
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="jQuery" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="Chrome Extension" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+
+
+
 
 
 
