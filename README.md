@@ -40,7 +40,7 @@
     JavaScript
   </div>
   <div>
-    <img src="https://img.icons8.com/ios/50/000000/codeigniter.png" alt="CodeIgniter"/>
+    <img src="https://codeigniter.com/assets/icons/ci-logo.png" alt="CodeIgniter"/>
     <br/>
     CodeIgniter
   </div>
