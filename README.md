@@ -2,10 +2,10 @@
 
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
-<p align="center">
+
  ![Visitor Count](https://moe-counter.vercel.app/get/@lalit-aspl?theme=rule34)
 
-</p>
+
 
 
 ## Skills
