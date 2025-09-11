@@ -3,11 +3,6 @@
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
 
- ![Visitor Count](https://moe-counter.vercel.app/get/@lalit-aspl?theme=rule34)
-
-
-
-
 ## Skills
 
 <p align="left">
@@ -47,6 +42,22 @@
    <a href=“https://www.postman.com/” target=“_blank” rel=“noreferrer”> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
    </a> 
+
+
+   <a href="#" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/chatbot.png" alt="Chatbot" width="40" height="40" />
+  </a>
+
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" width="40" height="40" />
+  </a>
+
+  <!-- Socket.IO -->
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40" />
+  </a>
+
  
 </p>
 
