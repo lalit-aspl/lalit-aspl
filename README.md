@@ -3,7 +3,8 @@
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/lalit-aspl/count.svg" alt="Visitor Count"/>
+ ![Visitor Count](https://moe-counter.vercel.app/get/@lalit-aspl?theme=rule34)
+
 </p>
 
 
