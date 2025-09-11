@@ -2,6 +2,9 @@
 
 👩‍💻 Software Developer | 🌐 Web Enthusiast 
 
+![Visitor Count](https://profile-counter.glitch.me/lalit-aspl/count.svg)
+
+
 ## Skills
 
 <p align="left">
